@@ -1,0 +1,47 @@
+Count of order_id							
+57096	> Total Order Lines						
+							
+							
+Sum of In Full							
+37661							
+							
+65.96%	> LIFR%						
+							
+							
+Sum of delivery_qty	Sum of order_qty						
+12969157	13426936						
+							
+96.59%	>VOFR%						
+							
+							
+Count of order_id							
+31729							
+							
+							
+Row Labels	Count of on_time		Row Labels	Count of in_full		Row Labels	Count of otif
+0	12999		0	14982		0	22521
+1	18730		1	16747		1	9208
+(blank)			(blank)			(blank)	
+Grand Total	31729		Grand Total	31729		Grand Total	31729
+							
+59.03%	>OT%		52.78%	>IF%		29.02%	>OTIF%
+							
+							
+Average of ontime_target%			Average of infull_target%			Average of otif_target%	
+86.09	>On Time Target		76.51	>In Full Target		65.91	>On Time In Full Target 
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
