@@ -10,23 +10,36 @@ GDS Mart is currently facing a problem where a few key customers have not extend
 Solution:
 
 I have defined some key metrics using which the analysis will be done, they are:
-Total Order Lines - Count of all order lines in fact_orders table /n
+
+Total Order Lines - Count of all order lines in fact_orders table
+
 Line Fill Rate - Number of order lines shipped In Full Quantity / Total Order Lines		
+
 Volume Fill Rate - Total Quantity shipped / Total Quantity Ordered					
+
 Total Orders - Total aggregated orders Count												
+
 On Time Delivery % - Number of orders delivered On Time / Total Number of Orders			
+
 In Full Delivery % - Number of orders delivered in Full quantity / Total Number of Orders		
+
 On Time In Full % - Number of orders delivered both IN Full & On Time / Total Number of Orders	
+
 On Time Target - Average of On-Time Target 							
+
 In Full Target - Average of In-Full Target							
+
 On Time In Full Target - Average of OTIF Target								
 
 --The above solution is depicted in the form of Excel Pivots, SQL Queries and Power BI Dashboard.
 
 How To Use:
 The Repository contains 3 Folders
+
 1. Dataset Folder
+
 2. Power BI Dashboard Folder
+
 3. SQL Queries File
 
 Dataset Folder: This Project contains 1 Dataset Excel File with 6 Raw Data tables and 1 Pivot Table.
