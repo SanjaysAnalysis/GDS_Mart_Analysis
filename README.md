@@ -11,25 +11,16 @@ Solution:
 
 I have defined some key metrics using which the analysis will be done, they are:
 
-Total Order Lines - Count of all order lines in fact_orders table
-
-Line Fill Rate - Number of order lines shipped In Full Quantity / Total Order Lines		
-
-Volume Fill Rate - Total Quantity shipped / Total Quantity Ordered					
-
-Total Orders - Total aggregated orders Count												
-
-On Time Delivery % - Number of orders delivered On Time / Total Number of Orders			
-
-In Full Delivery % - Number of orders delivered in Full quantity / Total Number of Orders		
-
-On Time In Full % - Number of orders delivered both IN Full & On Time / Total Number of Orders	
-
-On Time Target - Average of On-Time Target 							
-
-In Full Target - Average of In-Full Target							
-
-On Time In Full Target - Average of OTIF Target								
+1. Total Order Lines - Count of all order lines in fact_orders table.
+2. Line Fill Rate - Number of order lines shipped In Full Quantity / Total Order Lines.
+3. Volume Fill Rate - Total Quantity shipped / Total Quantity Ordered.
+4. Total Orders - Total aggregated orders Count.
+5. On Time Delivery % - Number of orders delivered On Time / Total Number of Orders.
+6. In Full Delivery % - Number of orders delivered in Full quantity / Total Number of Orders.
+7. On Time In Full % - Number of orders delivered both IN Full & On Time / Total Number of Orders.
+8. On Time Target - Average of On-Time Target.
+9. In Full Target - Average of In-Full Target.
+10. On Time In Full Target - Average of OTIF Target.			
 
 --The above solution is depicted in the form of Excel Pivots, SQL Queries and Power BI Dashboard.
 
