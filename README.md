@@ -10,7 +10,7 @@ GDS Mart is currently facing a problem where a few key customers have not extend
 Solution:
 
 I have defined some key metrics using which the analysis will be done, they are:
-Total Order Lines - Count of all order lines in fact_orders table					
+Total Order Lines - Count of all order lines in fact_orders table /n
 Line Fill Rate - Number of order lines shipped In Full Quantity / Total Order Lines		
 Volume Fill Rate - Total Quantity shipped / Total Quantity Ordered					
 Total Orders - Total aggregated orders Count												
