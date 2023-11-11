@@ -74,6 +74,8 @@ Column Description for fact_orders_aggregate:
 Power BI Dashboard Folder:
 This has the .pbix file as well as the screenshots of how the Dashboard looks like.
 download the .pbix file and double click on the .pbix to run it on your computer, this will work as long as youhave installed Power BI Desktop app from Microsoft.
+![Home_Page](https://github.com/SanjaysAnalysis/GDS_Mart_Analysis/assets/150272382/7e815a0e-8b03-4c70-810d-8d415067dd72)
+
 
 In the File you'll find 2 dashboards explaining the key metrics defined above in visual form. use filters and slicers to get the insights you need.
 
