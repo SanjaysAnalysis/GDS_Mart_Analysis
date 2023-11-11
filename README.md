@@ -37,9 +37,7 @@ How To Use:
 The Repository contains 3 Folders
 
 1. Dataset Folder
-
 2. Power BI Dashboard Folder
-
 3. SQL Queries File
 
 Dataset Folder: This Project contains 1 Dataset Excel File with 6 Raw Data tables and 1 Pivot Table.
